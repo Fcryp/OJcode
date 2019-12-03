@@ -1,3 +1,11 @@
+/*
+ * @Author: n0bdy
+ * @Date: 2019-11-28 00:17:35
+ * @LastEditTime: 2019-12-03 14:38:06
+ * @FilePath: \OJcode\codeforces\cf961b.cpp
+ * @Source: https://codeforces.com/contest/961/problem/C
+ * @Discription: dp implementation
+ */
 #include <cstdio>
 const int MAXN = 100005;
 int n, k;
